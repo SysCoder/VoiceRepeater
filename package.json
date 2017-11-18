@@ -1,0 +1,17 @@
+{
+  "name": "voice-repeater",
+  "version": "1.0.0",
+  "description": "Drop in module for replaying prompts when the user ask for repeat of the last prompt",
+  "main": "yes",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "actions",
+    "on",
+    "google",
+    "repeat"
+  ],
+  "author": "Marcellus Pelcher <pelcher@gmail.com> (medium.com/@syscoder)",
+  "license": "MIT"
+}
