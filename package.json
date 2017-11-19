@@ -1,6 +1,6 @@
 {
   "name": "voice-repeater",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Drop in module for replaying prompts when the user ask for repeat of the last prompt",
   "main": "yes",
   "scripts": {
@@ -13,5 +13,13 @@
     "repeat"
   ],
   "author": "Marcellus Pelcher <pelcher@gmail.com> (medium.com/@syscoder)",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SysCoder/VoiceRepeater.git"
+  },
+  "bugs": {
+    "url": "https://github.com/SysCoder/VoiceRepeater/issues"
+  },
+  "homepage": "https://github.com/SysCoder/VoiceRepeater#readme"
 }
